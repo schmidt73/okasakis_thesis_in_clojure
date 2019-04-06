@@ -1,0 +1,16 @@
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/
+resources/public/cljs-out/
+figwheel_server.log
+nashorn_code_cache/
+.cljs_nashorn_repl/
+\#*\#
